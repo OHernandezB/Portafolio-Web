@@ -16,8 +16,7 @@ const Hero = () => {
                             Desarrollador Web FullStack / Analista Programador
                         </h2>
                         <p className="lead mb-5" style={{ maxWidth: '600px' }}>
-                            Especializado en crear experiencias digitales excepcionales.
-                            Actualmente busco oportunidades para aplicar mis habilidades en un entorno profesional.
+                            Estudiante de 3er año de Ingeniería en Informática en IP Duoc UC, con gran motivación por aprender y seguir creciendo en el área tecnológica. Me caracterizo por ser una persona hábil, proactiva y con fuerte orientación al trabajo en equipo, siempre buscando aportar valor y adquirir nuevos conocimientos en entornos colaborativos.
                         </p>
                         <div className="d-flex gap-3">
                             <a href="#projects" className="btn btn-primary btn-lg">
