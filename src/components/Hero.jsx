@@ -28,8 +28,8 @@ const Hero = () => {
                             </a>
                         </div>
                     </div>
-                    <div className="col-lg-5 d-none d-lg-block text-center">
-                        <div className="mx-auto" style={{ width: '350px', height: '350px' }}>
+                    <div className="col-lg-5 text-center mt-5 mt-lg-0">
+                        <div className="mx-auto" style={{ width: '100%', maxWidth: '350px', aspectRatio: '1/1' }}>
                             <img
                                 src="/profile.jpg"
                                 alt="Omar Hernández"

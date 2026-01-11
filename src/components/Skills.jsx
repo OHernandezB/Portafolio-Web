@@ -11,6 +11,7 @@ const Skills = () => {
         { name: 'Java', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' },
         { name: 'MongoDB', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' },
         { name: 'MySQL', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' },
+        { name: 'Kotlin', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' },
         { name: 'Git', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' },
     ];
 
@@ -19,6 +20,7 @@ const Skills = () => {
         { name: 'Google Firebase', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' },
         { name: 'Cursor', icon: 'https://www.google.com/s2/favicons?domain=cursor.com&sz=256' },
         { name: 'Google Antigravity', icon: 'https://www.google.com/s2/favicons?domain=antigravity.google&sz=256' },
+        { name: 'Android Studio', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg' },
     ];
 
     const SkillSection = ({ title, items }) => (
