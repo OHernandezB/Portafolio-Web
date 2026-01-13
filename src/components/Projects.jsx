@@ -6,9 +6,9 @@ const Projects = () => {
             id: 1,
             title: "Bar Pirata App",
             description: "Aplicación web para la gestión y visualización de un bar temático. Permite a los usuarios ver el catálogo de productos y eventos. Desarrollado como parte de un proyecto académico.",
-            tags: ["Python", "Django", "HTML/CSS", "Bootstrap"],
+            tags: ["React", "Vite", "JavaScript", "HTML/CSS", "Bootstrap", "Xano"],
             image: "/project-bar-pirata.png",
-            link: "https://github.com/OHernandezB/Bar-pirata-appm.git"
+            link: "https://github.com/OHernandezB/Bar-Pirata"
         },
         // Add more projects here
     ];
