@@ -10,6 +10,14 @@ const Projects = () => {
             image: "/project-bar-pirata.png",
             link: "https://github.com/OHernandezB/Bar-Pirata"
         },
+        {
+            id: 2,
+            title: "TechShop",
+            description: "Proyecto de comercio electrónico enfocado en la venta de hardware tecnológico (GPUs, RAM, periféricos gamer y componentes de PC). Desarrollado como una Progressive Web App (PWA) con React + Vite en el frontend y Xano como backend no-code, utilizando una arquitectura API REST.",
+            tags: ["React", "Vite", "JavaScript", "HTML/CSS", "Bootstrap", "Xano"],
+            image: "/project-techshop.png",
+            link: "https://github.com/OHernandezB/TechShop"
+        }
         // Add more projects here
     ];
 
